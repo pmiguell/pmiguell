@@ -3,7 +3,7 @@
 I'm a Computer Science student at the Federal University of Uberlândia (UFU) and a Scientific Researcher in Cybersecurity. I'm building my career focusing on Web Development, taking courses alongside my undergraduate studies.
 
 ## 💻 Tech Stack
-#### Here are some technologies I use in my projects:
+Here are some technologies I use in my projects:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
