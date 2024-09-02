@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Pedro Miguel!
 
-I'm a Computer Science student at the Federal University of Uberlândia (UFU) and a Scientific Researcher in Cybersecurity. I'm building my career focusing on Web Development, taking courses alongside my undergraduate studies. My current stack is Front-End, however, I'm currently studying Back-End technologies.
+I'm a Computer Science student at the Federal University of Uberlândia (UFU) and a Scientific Researcher in Cybersecurity. I'm building my career focusing on Software Development, taking courses alongside my undergraduate studies. My current stack is Front-End, however, I'm currently studying Back-End technologies.
 
 ## 💻 Tech Stack
 Here are some technologies I use in my projects:
